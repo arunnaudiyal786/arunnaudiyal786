@@ -1,0 +1,17 @@
+# some information about you
+name: "Arun Naudiyal"
+nickname: "Rocket Noddy"
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "Hey, I am"
+image: "images/Profile.jpg"
+# give your some contact information. they will be used in the footer
+contactInfo:
+  email: "arunnaudiyal786@gmail.com"
+  phone: ""
+
+# some summary about what you do
+summary:
+   
+  - I love building products
+  - I love building products using NLP
+  - I love building products using DevOps
